@@ -1,5 +1,3 @@
-# BSC Testnet Exchange
+# Vanilla Swap
 
-This is a bsc testnet exchange to test your project.
-
-Use it here: https://thewapdev.github.io
+https://swap.IceCreamSwap.finance
